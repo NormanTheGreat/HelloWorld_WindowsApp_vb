@@ -1,1 +1,0 @@
-﻿This is a file for people who wants to know more about this project
